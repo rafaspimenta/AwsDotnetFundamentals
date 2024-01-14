@@ -11,4 +11,4 @@
 - AWS Secrets Manager
 - AWS Lambda
 
-> From https://dometrain.com/course/cloud-fundamentals-aws-services-for-c-developers/
+> From Nick Chapsas https://dometrain.com/course/cloud-fundamentals-aws-services-for-c-developers/
